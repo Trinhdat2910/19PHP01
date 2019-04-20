@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#main{
+	width: 50%;
+	height: 100%;
+
+	margin: 0 auto;
+
+}
+.product img{ 
+	width: 49%;
+	height: 250px;
+	float: left;
+}
+#detail{
+	background-color: yellow;
+	margin: 0 auto;
+	width: 70%;
+	height: 200px;
+	display: none;
+}
+#changeimg{
+	width: 100%;
+	margin: 0 auto;
+}
+#add{
+	margin-left:  170px;
+}
