@@ -1,0 +1,61 @@
+#car {    
+    position: absolute;   
+
+  
+}
+#xe3 {    
+    position: relative;   
+
+  
+}
+#line{
+	
+	height: 5px;
+	background-color: red;
+	
+}
+#xe {    
+    
+}
+#xe2{
+	float: right;
+	width: 265px;
+	height: 190px;
+	 -webkit-transform: rotateY(180deg); 
+  transform: rotateY(180deg);
+  position: relative;
+}
+#xe1{
+	float: left;
+	position: relative;
+	
+}
+#lua{
+	width: 265px;
+	height: 190px;
+	margin-left: 500px;
+	display: none;
+}
+#content2{
+	height: 170px;
+	width: 100%;
+	
+}
+#moto{
+	
+	
+  position: absolute;
+}
+#content{
+	height: 170px;
+	width: 100%;
+	
+}
+#content1{
+	height: 170px;
+	width: 100%;
+
+}
+p {
+    height: 20px;
+}
