@@ -21,9 +21,7 @@
                 sdt: {
                     required: true
                 },
-                hoten: {
-                    required: true
-                },
+                
                 ngaydauki: {
                     required: true
                 },
